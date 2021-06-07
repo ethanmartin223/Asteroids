@@ -48,7 +48,6 @@ class Ship:
     slope_y = 0
     lives = 5
     cool_down = 0
-    # <<< we could append the temp vars to a list no? -- ELM
     end_x = 0
     end_y = 0
     end_x2 = 0
@@ -62,7 +61,6 @@ class Ship:
     end_x6 = 0
     end_y6 = 0
     tick = 0
-    # <<<
     destroyed = False
     rotate_speed = 0
     velx = 0
