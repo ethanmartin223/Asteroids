@@ -1,5 +1,5 @@
 # Asteroids
-A end of semester project for our intro to python class 
+A end of semester project for my intro to python class 
 
 ![image](ship.gif)
 
